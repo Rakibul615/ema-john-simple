@@ -1,0 +1,13 @@
+
+.cart-container{
+    display:flex;
+}
+.cart-items{
+    width:70%;
+    margin-left: 100px;
+    margin-right: 5px;
+    border-right: 2px solid lightgray;
+    border-bottom: 2px solid lightgray ;
+    padding: 5px;
+
+}
